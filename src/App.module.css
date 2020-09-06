@@ -9,3 +9,9 @@ body {
     justify-content: center;
     flex-direction: column;
 }
+
+.image {
+
+    width:370px;
+    margin-top: 50px;
+}
