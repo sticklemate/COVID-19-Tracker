@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/sticklemate/COVID-19-Tracker.svg?branch=master)](https://travis-ci.org/github/sticklemate/COVID-19-Tracker)
 <br />
 
-This is a simple COVID-19 Tracker project that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple 2020 - COVID-19 Tracker project that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
