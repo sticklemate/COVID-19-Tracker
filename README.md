@@ -3,6 +3,10 @@
 
 This is a simple COVID-19 Tracker project that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+Click here to see a live demo of the tracker app - [Live Demo](https://sticklemate.github.io/COVID-19-Tracker/). This is currently hosted on github pages
+
 ## Available Scripts
 
 In the project directory, you can run:
